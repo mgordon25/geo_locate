@@ -1,2 +1,1 @@
-# geo_locate
-geographical locator for ip addresses
+locate ip address
